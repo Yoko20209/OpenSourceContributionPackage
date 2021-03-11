@@ -1,0 +1,23 @@
+{
+  "name": "opensourcecontributionpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoko20209/OpenSourceContributionPackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoko20209/OpenSourceContributionPackage/issues"
+  },
+  "homepage": "https://github.com/Yoko20209/OpenSourceContributionPackage#readme",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
